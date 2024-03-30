@@ -12,7 +12,7 @@ Right click to undo a stroke
 ### On the palettes
 Above the drawing canvas are from left to right the color, thickness and brush style palettes.
 Left click in the respective palette to select what you want, I hope it's pretty intuitive !
-### Top bar
+### On the top bar
 Above the 3 palettes are buttons for saving(as), opening or creating a new canvas, simply click on those buttons to do the intended action
 
 ## Author
